@@ -1,9 +1,9 @@
-# ChatGPT-clone-MERN
+# MindBot
 
 # Update
-  - ***There won't be any response as the OpenAI API's free trial got expired on 1 June 2023.***
+  - ***There won't be any response as the OpenAI API's free trial got expired on recently.***
 
-ChatGPT (GPT-3) Clone with additional features: 
+MindBot with additional features: 
 - AI Chatbot
 - Text Summarization
 - Paragraph Generator
